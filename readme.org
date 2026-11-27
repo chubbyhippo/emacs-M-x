@@ -1,5 +1,6 @@
 * M-x lists
 
 - customize
-  - select-active-region nil 
+  - savehist-mode t
+  - select-active-region nil
 - customize-face
