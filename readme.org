@@ -1,5 +1,5 @@
 * M-x lists
 
 - customize
-  - select-active-region 
+  - select-active-region nil 
 - customize-face
