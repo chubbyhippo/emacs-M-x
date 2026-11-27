@@ -3,6 +3,7 @@
 - customize
   - delete-selection-mode t
   - isearch-lazy-count t
+  - ring-bell-function 'ignore
   - savehist-mode t
   - select-active-region nil
 - customize-face
