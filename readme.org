@@ -1,6 +1,8 @@
 * M-x lists
 
 - customize
+  - isearch-lazy-count t
   - savehist-mode t
   - select-active-region nil
+
 - customize-face
