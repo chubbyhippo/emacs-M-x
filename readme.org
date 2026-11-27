@@ -5,5 +5,5 @@
   - isearch-lazy-count t
   - ring-bell-function 'ignore
   - savehist-mode t
-  - select-active-region nil
+  - select-active-regions nil
 - customize-face
